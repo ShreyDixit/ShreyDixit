@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=ShreyDixit&color=green)
 <p> Hi! I'm Shrey Dixit and I'm a an MSc student studying <b>Intelligent Adaptive Systems</b> at the <b>University of Hamburg</b></p>
 
-<p> I build interpretable Machine Learning models and develope clean websites! I focus on applications of AI in <b>Computer Vison</b>, <b>Natural Language Processing</b>, <b>Neuroinformatics</b>, and <b>Economics</b>. Currently I'm working as a Research Assistant at <a href="https://www.uke.de/english/departments-institutes/institutes/computational-neuroscience/index.html" target="_blank">ICNS, Hamburg </a> and <a href="https://www.bwl.uni-hamburg.de/statistik/" target="_blank">Institute for Statistics, UHH</a></p>
+<p> I am an MSc student studying Intelligent Adaptive Systems at the University of Hamburg. I focus on Deep Learning and Computational Neuroscience. Currently I'm working as a Research Assistant at <a href="https://www.uke.de/english/departments-institutes/institutes/computational-neuroscience/index.html" target="_blank">ICNS, Hamburg </a> where I am developing and using <a href="https://kuffmode.github.io/msa/">msapy</a> for Explainable AI and Brain Network Analysis</p>
 
 <h3 align="left">Connect with me:</h3>
 <div>
