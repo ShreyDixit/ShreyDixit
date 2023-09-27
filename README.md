@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
 <a href="https://www.linkedin.com/in/shreydixittech/">
-  <img alt="Shrey's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Shrey's LinkedIN" width="22px" src="https://camo.githubusercontent.com/00974afc84e6984c98cb5c971879e88b31387aa90f1f91795586266a48d2ed88/68747470733a2f2f63646e2e73696d706c6569636f6e732e6f72672f6c696e6b6564696e" />
 </a>
 <a href="https://scholar.google.com/citations?user=xTbHkksAAAAJ&hl=en">
   <img alt="Shrey's Google Scholar" width="24px" src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" />
